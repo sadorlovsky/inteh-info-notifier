@@ -24,7 +24,6 @@ const checker = {
       fetchedPosts.map(async function (post) {
         if (post.date > lastPost.date) {
           await Post.create(post)
-          this.delivery(post)
         }
       })
     } catch (err) {

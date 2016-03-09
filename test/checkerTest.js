@@ -27,7 +27,7 @@ test('should have a delivery method', t => {
   should(checker).have.property('delivery').which.is.a.Function()
 })
 
-test('should return all users with sub', async t => {
+test.skip('should return all users with sub', async t => {
   const users = [
     {
       chatId: 996,
