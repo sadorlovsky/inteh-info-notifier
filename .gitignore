@@ -1,0 +1,17 @@
+logs
+*.log
+npm-debug.log*
+
+pids
+*.pid
+*.seed
+
+node_modules
+.npm
+
+.env
+
+dist
+
+coverage
+.nyc_output

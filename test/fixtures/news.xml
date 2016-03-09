@@ -1,0 +1,94 @@
+<rss xmlns:yandex="http://news.yandex.ru" version="2.0">
+  <channel>
+    <item>
+      <title>Fake post #10</title>
+      <link>http://fake.post/10</link>
+      <description/>
+      <yandex:full-text>
+        Fake post text
+      </yandex:full-text>
+      <pubDate>Wed, 13 Jan 2016 00:00:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fake post #9</title>
+      <link>http://fake.post/9</link>
+      <description/>
+      <yandex:full-text>
+        Fake post text
+      </yandex:full-text>
+      <pubDate>Wed, 13 Jan 2016 00:00:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fake post #8</title>
+      <link>http://fake.post/8</link>
+      <description/>
+      <yandex:full-text>
+        Fake post text
+      </yandex:full-text>
+      <pubDate>Tue, 12 Jan 2016 17:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fake post #7</title>
+      <link>http://fake.post/7</link>
+      <description/>
+      <yandex:full-text>
+        Fake post text
+      </yandex:full-text>
+      <pubDate>Tue, 12 Jan 2016 16:01:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fake post #6</title>
+      <link>http://fake.post/6</link>
+      <description/>
+      <yandex:full-text>
+        Fake post text
+      </yandex:full-text>
+      <pubDate>Mon, 04 Jan 2016 09:10:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fake post #5</title>
+      <link>http://fake.post/5</link>
+      <description/>
+      <yandex:full-text>
+        Fake post text
+      </yandex:full-text>
+      <pubDate>Mon, 28 Dec 2015 14:11:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fake post #4</title>
+      <link>http://fake.post/4</link>
+      <description/>
+      <yandex:full-text>
+        Fake post text
+      </yandex:full-text>
+      <pubDate>Tue, 17 Nov 2015 10:45:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fake post #3</title>
+      <link>http://fake.post/3</link>
+      <description/>
+      <yandex:full-text>
+        Fake post text
+      </yandex:full-text>
+      <pubDate>Thu, 12 Nov 2015 11:39:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fake post #2</title>
+      <link>http://fake.post/2</link>
+      <description/>
+      <yandex:full-text>
+        Fake post text
+      </yandex:full-text>
+      <pubDate>Thu, 05 Nov 2015 01:32:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fake post #1</title>
+      <link>http://fake.post/1</link>
+      <description/>
+      <yandex:full-text>
+        Fake post text
+      </yandex:full-text>
+      <pubDate>Mon, 19 Oct 2015 13:01:17 -0400</pubDate>
+    </item>
+  </channel>
+</rss>
